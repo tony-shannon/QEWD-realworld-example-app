@@ -2,14 +2,15 @@
 
 > ### Example QEWD.js Back-end codebase that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
-This repo is functionality complete — PR's and issues welcome!
+This repo is functionality complete â€” PR's and issues welcome!
 
 ----------
  
 Rob Tweed <rtweed@mgateway.com>  
 25 January 2017, M/Gateway Developments Ltd [http://www.mgateway.com](http://www.mgateway.com)  
 
-Twitter: @rtweed
+QEWDjs Website:  [QEWDjs.com](http://qewdjs.com/)
+QEWDjs on Twitter: [@qewdjs](https://twitter.com/qewdjs)
 
 Google Group for discussions, support, advice etc: [http://groups.google.co.uk/group/enterprise-web-developer-community](http://groups.google.co.uk/group/enterprise-web-developer-community)
 
